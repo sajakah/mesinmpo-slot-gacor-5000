@@ -1,12 +1,16 @@
 {
   "name": "mesinmpo-slot-gacor-5000",
-  "theme": "theme"
-  "version": "1.0.0",
-  "description": "link daftar slot gacor 5000 terpercaya",
-  "keywords":
-    "link slot gacor"
-    "slot 5000 terpercaya"
-  
+  "theme": "mesinmpo",
+  "version": "1.5.0",
+  "description": "MesinMpo adalah link alternatif login untuk bermain slot online terbaik sepanjang sejarah di asia",
+  "keywords": [
+    "mesinmpo",
+    "mesinmpo login",
+    "mesinmpo slot",
+    "slot",
+    "link mesinmpo",
+    "link alternatif mesinmpo"
+  ],
   "repository": "https://github.com/sajakah/mesinmpo-slot-gacor-5000",
   "license": "MIT",
   "engines": {
