@@ -1,0 +1,15 @@
+{
+  "name": "mesinmpo-slot-gacor-5000",
+  "theme": "mesinmpo,
+  "version": "1.0.0",
+  "description": "link daftar slot gacor 5000 terpercaya",
+  "keywords": [
+    "slot gacor,
+    "slot 5000 terpercaya"
+  ],
+  "repository": "https://github.com/sajakah/mesinmpo-slot-gacor-5000",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
